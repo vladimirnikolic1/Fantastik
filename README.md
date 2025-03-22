@@ -1,6 +1,6 @@
 ## Fantastik
 
-![Image](docs/imag_1.png)
+![Image](docs/img_1.png)
 
 Fantastik font Axe 
 
