@@ -2,7 +2,7 @@
 
 ![Image](docs/img_1.png)
 
-Fantastik font Axe 
+# Fantastik has a following axe
 
 Axis | Tag | Default | Static Instances
 --- | --- | --- | ---
