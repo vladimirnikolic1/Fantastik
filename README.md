@@ -1,10 +1,10 @@
 ## Fantastik
 
-![Image](documents/imgage1.png)
+![Image](documents/image1.png)
 
 FanTastic is the debut studio album by Danish bubblegum pop band Toy-Box. It was released by Edel on 21 May 1999. It includes the hit singles "Tarzan & Jane", "Best Friend" and "The Sailor Song", and the promotional single "Teddybear". It also includes the "Toy-Box Space Trap" video game for PC. It spent two weeks at number 1 on the Dutch chart in July of the same year.
 
-![Image](documents/imgage2.png)
+![Image](documents/image2.png)
 
 # Fantastik 
 
