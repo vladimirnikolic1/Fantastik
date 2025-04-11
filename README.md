@@ -6,11 +6,11 @@ FanTastic is the debut studio album by Danish bubblegum pop band Toy-Box. It was
 
 ![Image](documents/imgage2.png)
 
-# Fantastik has a following axe
+# Fantastik 
 
-Axis | Tag | Default | Static Instances
---- | --- | --- | ---
-Weight | wght | 400 | Regular
+  Tag | Default | Static Instances
+--- | --- | ---
+  wght | 400 | Regular
 
 ## Image License
 The images in this repository are licensed under the CC https://creativecommons.org/licenses/by-sa/4.0/
